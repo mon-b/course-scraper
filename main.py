@@ -1,4 +1,4 @@
-from ofg_scrapper import main as ofg_main
+from ofg_scraper import main as ofg_main
 from info_for_course_codes import main as info_for_course_codes_main    
 
 def main():

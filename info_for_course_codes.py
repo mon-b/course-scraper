@@ -1,8 +1,8 @@
 import logging
 import json
 
-from catalogue_scrapper import catalogue_info
-from parity_scrapper import find_course_availability
+from catalogue_scraper import catalogue_info
+from parity_scraper import find_course_availability
 
 logging.basicConfig(level=logging.INFO, format='%(message)s')
 logger = logging.getLogger()

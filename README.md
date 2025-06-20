@@ -24,9 +24,9 @@ REMOVE_DUPLICATES = True     # Filter duplicate codes
 
 ## Components
 
-- `ofg_scrapper.py`: extracts course codes from OFG pages
-- `catalogue_scrapper.py`: gets course details from catalog
-- `parity_scrapper.py`: dtermines semester availability from historical data
+- `ofg_scraper.py`: extracts course codes from OFG pages
+- `catalogue_scraper.py`: gets course details from catalog
+- `parity_scraper.py`: dtermines semester availability from historical data
 - `info_for_course_codes.py`: pipeline orchestrator
 
 ## Output
