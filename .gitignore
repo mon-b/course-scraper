@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+scraping_env/
+*.venv
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+
+# Generated files
+
+results/
