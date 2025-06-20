@@ -35,9 +35,8 @@ JSON with course code, credits, area, name, and semester availability ("odd"/"ev
 
 ## Notes
 
-- Availability is heuristic based on historical patterns
-- Rerun each semester for updates
-- Rate limited for server courtesy
+- Availability is heuristic based on historical patterns for 2024-2 and 2025-1. Should be updated when data for 2025-2 is available.
+- Updates on scraped websites **will** kill the scrapers.
 
 ## Setup
 
