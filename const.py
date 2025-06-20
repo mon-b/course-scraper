@@ -26,3 +26,9 @@ FIELDS = [
 UPDATE_COURSE_CODES = False
 SAVE_TO_FILE =  True
 REMOVE_DUPLICATES = True
+
+
+# json edition stuff
+COURSE_DATA = "results/course_data.json"
+BASE_COURSE_NUMBER = 87 # read about this in edit_course_data.py
+EDITED_COURSE_DATA = "results/edited_course_data.json"
